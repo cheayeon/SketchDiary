@@ -1,0 +1,76 @@
+.covbox2{
+    display: inline-block;
+    width: 92vw;
+    height: 25vh;
+    margin-left: 3.5vw;
+    margin-top: 3.5vh;
+}
+.deco{
+    display: inline-block;
+    border: solid black;
+    width: 90%;
+    height: 20vh;
+    background-color: aliceblue;
+}
+.finbut{
+    width: 7vw;
+    height: 7vh;
+    float: right;
+    font-size: 3vh;
+    margin-top: 13.5vh;
+    border: solid black;
+}
+.box1{
+    width: 30vw;
+    height: 60vh;
+    float: left;
+    text-align: center;
+}
+.box2{
+    width: 20vw;
+    height: 18vh;
+    float: left;
+    border: solid black;
+    background-color: aliceblue;
+    margin: 3vh 4vw;
+    padding: 1vw;
+}
+.onebox{
+    margin-top: 8vh;
+}
+canvas{
+    width: 60vw;
+    height: 50vh;
+    margin: 8vh 2vw;
+    border: solid black;
+    background-color: aliceblue;
+}
+input{
+    width: 90%;
+}
+p{
+    margin: 2vh 1vw;
+}
+nav{
+    float: left;
+    width: 8vw;
+    height: 4vh;
+    font-size: 2.5vh;
+    text-align: center;
+    border: solid black 2px;
+    border-bottom: 0px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-top: 3px;
+    margin: 0;
+    overflow: hidden;
+    background-color: aliceblue;
+}
+a{
+    color: black;
+    text-decoration-line: none;
+}
+body{
+    background-color: rgb(255, 226, 34);
+    overflow: hidden;
+}

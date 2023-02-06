@@ -1,0 +1,56 @@
+.calinder{
+    width: 45vw;
+    height: 32vh;
+    padding: 4vh 4vw;
+    float: left;
+    text-align: center;
+    margin-top: 15%;
+}
+button{
+    width: 5vw;
+    height: 5vw;
+    margin: 1vh 0.2vw;
+    font-size: 1.5vw;
+    border-radius: 20vw;
+}
+img{
+    float: left;
+    height: 52vh;
+    width: 40vw;
+    margin: 5vh 1vw;
+    margin-top: 18%;
+}
+body{
+    background-color: rgb(255, 226, 34);
+    overflow: hidden;
+}
+h1{
+    right: 5vw;
+    font-size: 5vw;
+    position: absolute;
+}
+.but{
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-color: rgb(255, 239, 133);
+    background-color: rgb(255, 239, 133);
+    text-align: center;
+    font-size: 2.2vw;
+    height: 5vh;
+    width: 30vw;
+    padding-top: 5px;
+}
+.two{
+    position: absolute;
+    bottom: 0;
+    left: 35vw;
+}
+.one{
+    position: absolute;
+    bottom: 0;
+    left: 2vw;
+}
+a{
+    color: black;
+    text-decoration-line: none;
+}
