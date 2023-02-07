@@ -38,15 +38,28 @@
 .onebox{
     margin-top: 8vh;
 }
-canvas{
+.bookcover{
     width: 60vw;
     height: 50vh;
     margin: 8vh 2vw;
     border: solid black;
     background-color: aliceblue;
 }
-input{
+.idpass{
     width: 90%;
+    height: 25%;
+    font-size: 4vh;
+    background-color: aliceblue;
+}
+.iptitle{
+    font-size: 4vh;
+}
+.subbut{
+    margin: 4.5% 9%;
+    width: 30%;
+    height: 35%;
+    font-size: 4vh;
+    background-color: antiquewhite;
 }
 p{
     margin: 2vh 1vw;

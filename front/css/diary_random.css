@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    font-size: 5vh;
+}
+body{
+    background-color: rgb(255, 226, 34);
+    overflow: hidden;
+}
+a{
+    color: black;
+    text-decoration-line: none;
+}
+.picbox{
+    background-color: white;
+    width: 20vw;
+    height: 30vh;
+    border: solid black;
+    margin: 2%;
+    text-align: center;
+    float: left;
+}
+.lines{
+    display: inline-block;
+    padding: 0vh 12vw;
+    width: 100%;
+}
+.but{
+    border-radius: 30vw;
+    border: solid rgb(255, 60, 0) ;
+    background-color: white;
+    padding: 0.3vw 3px 3px 3px;
+    text-align: center;
+    font-size: 2.5vw;
+    width: 14vw;
+    height: 4vw;
+    float: left;
+}
+.todays{
+    text-align: right;
+    font-size: 4vh;
+}
+.lastline{
+    position: absolute;
+    display: inline-block;
+    width: 90%;
+    height: 7vh;
+    bottom: 0;
+    padding: 3vh 5vw;
+}
+.cardti{
+    font-size: 3vh;
+}
+img{
+    width: 85%;
+    height: 55%;
+}

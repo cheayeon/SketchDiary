@@ -1,0 +1,57 @@
+.linebox{
+    width: 83%;
+    height: 15vh;
+    margin: auto;
+}
+.tabox{
+    width: 83%;
+    height: auto;
+    margin: auto;
+}
+.borbox{
+    width: 29.5%;
+    border: solid black;
+    background-color: white;
+    text-align: center;
+    font-size: 3vh;
+}
+.navbox{
+    width: 78vw;
+    height: 10vh;
+    margin: 0 10vw;
+    display: inline-block;
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+button{
+    float: left;
+    font-size: 3.2vh;
+    background-color: khaki;
+    border-color: khaki;
+    margin: 0 1vw;
+}
+form{
+    float: left;
+    margin: 0vh 2vw;
+    font-size: 4vh;
+}
+input{
+    width: 15vw;
+    border: none;
+    font-size: 4vh;
+    text-align: right;
+}
+nav{
+    float: left;
+    margin: 0 5vw;
+    width: 16vw;
+    height: 6vh;
+    font-size: 4vh;
+    background-color: peachpuff;
+}
+a{
+    text-decoration-line: none;
+    color: black;
+}
